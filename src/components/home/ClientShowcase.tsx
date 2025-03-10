@@ -10,12 +10,12 @@ const clients = [
   },
   {
     name: "Spectra Studios",
-    logo: "https://images.unsplash.com/photo-1651950799270-aaeaed542733?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    logo: "https://images.unsplash.com/photo-1598653222000-6b7b7a552625?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
     type: "Recording Studio"
   },
   {
     name: "Horizon Media Group",
-    logo: "https://images.unsplash.com/photo-1651950537015-5c6fe0aac3a3?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    logo: "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
     type: "Media Production"
   },
   {
@@ -30,7 +30,7 @@ const clients = [
   },
   {
     name: "Global Soundscapes",
-    logo: "https://images.unsplash.com/photo-1651950551337-3a6eaa724055?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    logo: "https://images.unsplash.com/photo-1598653222000-6b7b7a552625?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
     type: "Audio Systems"
   }
 ];

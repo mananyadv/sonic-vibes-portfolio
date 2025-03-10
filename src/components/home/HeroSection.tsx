@@ -51,12 +51,6 @@ const HeroSection = () => {
               </button>
             </Link>
           </div>
-          
-          <div className="mt-32 flex items-center gap-12 opacity-0 animate-fade-in-delay-3">
-            <img src="https://images.unsplash.com/photo-1622037022788-6234d0a3339e?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3" alt="Award" className="h-12 opacity-50" />
-            <img src="https://images.unsplash.com/photo-1648220809172-8978e060f9f4?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3" alt="Award" className="h-10 opacity-50" /> 
-            <img src="https://images.unsplash.com/photo-1647964586273-61869956bf0e?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3" alt="Award" className="h-12 opacity-50" />
-          </div>
         </div>
       </div>
     </section>

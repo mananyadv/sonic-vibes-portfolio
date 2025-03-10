@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Volume2, Speaker, Music } from 'lucide-react';
 import ScrollAnimation from '../ScrollAnimation';
@@ -12,7 +11,7 @@ const ServicesOverview = () => {
       title: 'Sound System Design & Optimization',
       description: 'Expertise in designing high-end sound systems for entertainment venues and recording studios.',
       link: '/services#sound-system-design',
-      bgImage: 'https://images.unsplash.com/photo-1621619856624-94189611d8d1?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3'
+      bgImage: 'https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3'
     },
     {
       icon: <Speaker size={48} className="text-karma-gold mb-6" />,
