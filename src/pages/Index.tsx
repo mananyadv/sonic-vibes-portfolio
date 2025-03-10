@@ -8,15 +8,16 @@ import Testimonials from '../components/home/Testimonials';
 import ContactCTA from '../components/home/ContactCTA';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
+import SplineBackground from '../components/SplineBackground';
 
 const Index = () => {
   useEffect(() => {
-    // Scroll to top on page load
     window.scrollTo(0, 0);
   }, []);
 
   return (
     <>
+      <SplineBackground />
       <Header />
       <main>
         <HeroSection />
